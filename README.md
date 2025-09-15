@@ -41,11 +41,11 @@ Pembagian
 <img width="827" height="440" alt="image" src="https://github.com/user-attachments/assets/c3597261-8f58-4d22-8d11-0b9323d735e9" />
 
 ## Teknologi yang Digunakan
-  PHP
-  CodeIgniter 3.x
-  Bootstrap 4.5
-  HTML5
-  CSS3
+- PHP
+- CodeIgniter 3.x
+- Bootstrap 4.5
+- HTML5
+- CSS3
 
 ---
 
