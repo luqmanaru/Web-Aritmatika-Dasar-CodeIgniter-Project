@@ -14,15 +14,8 @@ Aplikasi web sederhana untuk operasi aritmatika dasar (penjumlahan, pengurangan,
 - Antarmuka yang responsif dengan Bootstrap
 
 ## Struktur Direktori
-application/ 
-├── controllers/ 
-│ └── Hitung.php 
-└── views/ 
-├── menu_aritmatika.php 
-├── penjumlahan.php 
-├── pengurangan.php 
-├── perkalian.php 
-└── pembagian.php 
+<img width="197" height="212" alt="image" src="https://github.com/user-attachments/assets/90ac1214-af8f-4fcb-82fd-9f60e7e50180" />
+
 
 ## Screenshot Aplikasi
 - Menu Utama
