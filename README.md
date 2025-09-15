@@ -1,4 +1,4 @@
-# Web-Aritmatika-Dasar-CodeIgniter-Project
+# Web-Aritmatika-Dasar-CodeIgniter-Project-1
 
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-3.x-orange.svg)
 ![PHP](https://img.shields.io/badge/PHP-7.x-blue.svg)
