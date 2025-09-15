@@ -14,15 +14,15 @@ Aplikasi web sederhana untuk operasi aritmatika dasar (penjumlahan, pengurangan,
 - Antarmuka yang responsif dengan Bootstrap
 
 ## Struktur Direktori
-application/
-├── controllers/
-│ └── Hitung.php
-└── views/
-├── menu_aritmatika.php
-├── penjumlahan.php
-├── pengurangan.php
-├── perkalian.php
-└── pembagian.php
+application/ 
+├── controllers/ 
+│ └── Hitung.php 
+└── views/ 
+├── menu_aritmatika.php 
+├── penjumlahan.php 
+├── pengurangan.php 
+├── perkalian.php 
+└── pembagian.php 
 
 ## Screenshot Aplikasi
 - Menu Utama
